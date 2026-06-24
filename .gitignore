@@ -6,6 +6,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Plugins/
+Config/
 .vs/
 .idea/
 *.sdf
