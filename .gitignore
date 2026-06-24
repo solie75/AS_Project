@@ -1,0 +1,18 @@
+# Source 제외 전부 무시
+Binaries/
+Build/
+Content/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/
+.vs/
+.idea/
+*.sdf
+*.suo
+*.VC.db
+
+# Visual Studio 파일
+*.sln
+*.user
+.vsconfig
